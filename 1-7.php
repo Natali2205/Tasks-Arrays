@@ -19,6 +19,7 @@ print_r($arr);
 print_r($arr1);
 print_r($arr2);
 
+
 echo '<hr>'. 'Задача count 1).: ';
 $arr=[1,2,3,4,5];
 print_r(count($arr));
